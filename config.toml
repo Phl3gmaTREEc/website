@@ -1,4 +1,4 @@
-baseURL = "https://phlegmatreec.netlify.app/"
+baseURL = "https://phlegmatreec.com/"
 languageCode = 'en-us'
 title = "PhlegmaTRREc's site"
 theme = 'gokarna'
