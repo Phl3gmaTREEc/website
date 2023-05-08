@@ -1,4 +1,8 @@
+[[build]]
+publish = "public"
+command = "hugo"
+
 [[redirects]]
-from = "/*"
-to = "/index.html"
+from = "/npmjs/*"
+to = "/npmjs/"
 status = 200
