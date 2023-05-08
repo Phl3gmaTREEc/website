@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://phlegmatreec.com/'
 languageCode = 'en-us'
 title = "PhlegmaTRREc's site"
 theme = 'gokarna'
@@ -7,34 +7,33 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    url = "/about/"
+    name = "About"
+    weight = 1
+  [[menu.main]]
     # Unique identifier for a menu item
     identifier = "posts"
-
     url = "/posts/"
-    
     # You can add extra information before the name (HTML format is supported), such as icons
     pre = ""
-
     # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
-
     # Display name
     name = "Posts"
-
     # Weights are used to determine the ordering
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
     
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/PhlegmaTREEc"
-    weight = 3
-    
+    weight = 4
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
 
@@ -46,7 +45,7 @@ enableRobotsTXT = true
   avatarSize = "size-l"
 
   # Description to display on homepage
-  description = "On this I would like to test and learn how to worh with HUGO (static site generator)"
+  description = "Welcome to my site. This early work in progress."
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
