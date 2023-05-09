@@ -30,13 +30,6 @@ enableRobotsTXT = true
     url = "/tags/"
     weight = 3
     
-  [[menu.main]]
-    identifier = "github"
-    url = "https://github.com/PhlegmaTREEc"
-    weight = 4
-    # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"
-
 [params]
   # URL for the avatar on homepage
   avatarURL = "/images/site_logo.png"
@@ -56,11 +49,19 @@ enableRobotsTXT = true
 
   # Keywords relevant for SEO
   metaKeywords = ["blog", "gokarna", "hugo", "phlegmatreec"]
-
+  
+  # Syntax highliting
+  pygmentsStyle = "dracula"
+  
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
   # or "" (do not display, default option)
-  showPostsOnHomePage = ""
+  showPostsOnHomePage = "recent"
+
+  socialIcons = [
+      {name = "mastodon", url = "https://cr8r.gg/@phlegmatreec"},
+      {name = "github", url = "https://github.com/PhlegmaTREEc"},
+    ]
 
   # Footer text
   footer = "PhlegaTREEc"
