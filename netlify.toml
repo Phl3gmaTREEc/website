@@ -1,8 +1,0 @@
-[build]
-publish = "public"
-command = "hugo"
-
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
