@@ -1,5 +1,5 @@
 ---
-title: "PhlegmaTRREc as Your GM"
+title: "PhlegmaTREEc as Your GM"
 date: 2023-05-14T11:05:25+02:00
 draft: false
 ShowToc: true
