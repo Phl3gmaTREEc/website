@@ -9,7 +9,7 @@ paginate = 20
 #disqusShortname = "ptc"
 
 [markup.highlight]
-style = "github-dark"
+style = "dracula"
 
 [params]
   author = "PhlegmaTREEc"
@@ -62,7 +62,3 @@ style = "github-dark"
   name = "Posts"
   weight = 2
   url = "posts/"
-[[menu.main]]
-  name = "Tags"
-  weight = 3
-  url = "tags/"
