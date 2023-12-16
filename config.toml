@@ -1,4 +1,5 @@
-baseurl = "http://phlegmatreec.com"
+#baseurl = "http://phlegmatreec.com"
+baseurl = "https://www.phlegmatreec.com/"
 title = "PhlegmaTREEc"
 theme = "coder"
 languagecode = "en"
