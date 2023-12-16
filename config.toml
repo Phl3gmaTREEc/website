@@ -1,0 +1,68 @@
+baseurl = "http://phlegmatreec.com"
+title = "PhlegmaTREEc"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+#disqusShortname = "ptc"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "PhlegmaTREEc"
+  info = "TTRPG Game Master"
+  description = "My personal website"
+  keywords = "blog,creator,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/PhlegmaTREEc"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 2
+  url = "https://cr8r.gg/@phlegmatreec"
+
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "about/"
+[[menu.main]]
+  name = "Posts"
+  weight = 2
+  url = "posts/"
+[[menu.main]]
+  name = "Tags"
+  weight = 3
+  url = "tags/"
