@@ -1,6 +1,6 @@
 baseURL: "https://phlegmatreec.com/"
 title: PTC
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my site
+    Content: Welcome to my site. Here you can find some information on how I run my TTPRG games.
 
   socialIcons:
     - name: github
