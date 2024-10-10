@@ -1,38 +1,49 @@
 ---
-title: "PhlegmaTREEc as Your GM"
+title: "How do I run my games?"
 date: 2023-05-14T11:05:25+02:00
 draft: false
 ShowToc: true
 tags: ["TTRPG"]
+weight: 1
 ---
 
 # Intro
 
-- In this post, I would like to give you an rough idea how I run my games and what you can expect from me, should you be interested in joining one of my games.
-- This post will be updated, when something new happens in my game and should be covered here.
+- This is a with basic information. Down bellow you can find links to specific game systems and other topics.
 
-# How do I run my games then?
+## Before the game
 
-- This can obviously depend on specific game system, but generally speaking I try to be laid back about most things.
+- Are you looking to join anything more than a one-shot? I'll schedule a short interview with you over Discord voice chat.
+  - Please make sure to use the microphone you plan to use in actual game session - mic check is on part of the chat.
+  - Introductions are next. After introducing myself, I'll probably ask about your experience with the system and VTT platform. Anything else you are willing to share is a bonus.
+  - Q&A 
+  - Should take 10-20 minutes.
+- Session 0 is gonna be next.
+  - Nothing unusual there.
+  - Player introductions.
+  - Safety tools - more info soon
+
+## How do I run my games then?
+
+- these points are true, unless stated otherwise in a more specific page.
+
+### Fan of player characters
+
 - No matter the system I'm always fan of the PCs and I'm not playing against players - it's collaborative storytelling, not some king of Player versus GM.
+
+### I'm all ears
+
 - Players are encouraged to talk to me about any issue they might be having
   - Would you like to change something in the game?
   - Other player(s) are making the game less enjoyable?
   - Do you have suggestion to improve something?
-  - **... Let's talk.** I'll do me best to handle anything you bring to my attention
+  - Questions about anything?
+  - Need help?
 
-## Kicking player out is a possibility as last resolve
+- **... Let's talk.** I'll do my best to handle anything you bring to my attention.
 
-- So far, I've been lucky enough to not have an asshole player in my game, but should it happen, I'll kick their ass, even if it's a payed game.
-  - Player can be kicked on the spot, if their behaviour is really bad. With minor incident we can talk about it and see, if we can make it work.
-  - A short interview before accepting a player and Session 0 should hopefully reduce the chance of that happening.
+## System specific
 
-# System specific
+### Pathfinder 2e
 
-## Pathfinder 2e
-
-### How do I rule the rules?
-
-- I'm not a hardcore follower of every rule in every situation.
-  - Rule of cool can be applied in some cases.
-- On the other hand rules are there for a reason, so don't expect me to hand wave everything. The are better systems for that kind of play.
+- [More info here]({{< ref "./pf2e-general.md" >}})
