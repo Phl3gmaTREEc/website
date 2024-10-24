@@ -6,15 +6,7 @@ draft: false
 
 # Intro
 
-This primarily meant for players in my existing Pathfinder 2e games. Should somebody else stumble upon this... I'm sorry? But maybe you can find something useful here, who knows.
-
-I would like to describe my thoughts on how to possibly change ruling of Recall Knowledge (and other secret) checks.
-
-Current situation is a mixture of Remaster and Homebrew. The result I have in my mind is much closer to Remaster. One of the main difference is that I do not give out false information, or I make it very obviously false. The other difference is that I'll tell you that you can reroll upon failure.
-
-But as I've gained some experience as a GM, my opinion on this has started to shift.
-
-# Proposed ruling
+The purpose of these changes is to make this activity a bit more reliable and to make it clear that "secret" means secret.
 
 ## Any secret check
 
@@ -24,11 +16,11 @@ But as I've gained some experience as a GM, my opinion on this has started to sh
   - ...and you roll it as public, I can ask you to roll again in secret (depends on severity of the check).
     - This is more of a way to stop any attempts at soft cheating
 
-## Recall Knowledge
+## Recall Knowledge specifics
 
 - RAW ruling is [here](https://2e.aonprd.com/Actions.aspx?ID=2367).
 - Basic flow should follow the description in the link.
-- Below are proposed differences and clarifications.
+- Below are differences and clarifications.
 
 ### Repeated attempts
 
@@ -48,11 +40,3 @@ For builds heavily relying on Recall Knowledge, there might be exceptions/change
 #### Example: Investigator Known Weakness Class Feat
 
 - You can choose to use you free Recall Knowledge only for the bonus to attack rolls, thus using the base DC.
-
-# Closing words
-
-This is only an idea for my current games (original date of publishing this text is March 2024), but I'm heavily in favor of some change.
-
-If you are a player in an active game, fell free to voice your opinions in the Discord server, or in a private message.
-
-This is a subject to change.
