@@ -1,0 +1,79 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phlegmatreec – Pf2e</title>
+    <link>http://localhost:1313/docs/pf2e/</link>
+    <description>Recent content in Pf2e on Phlegmatreec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Nov 2024 20:00:38 +0100</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/pf2e/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Recall Knowlegde</title>
+      <link>http://localhost:1313/docs/pf2e/recall-knowlegde/</link>
+      <pubDate>Sun, 03 Nov 2024 19:59:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/docs/pf2e/recall-knowlegde/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Intro&lt;/h1&gt;&lt;p&gt;The purpose of these changes is to make this activity a bit more reliable and to make it clear that &amp;ldquo;secret&amp;rdquo; means secret.&lt;/p&gt;
+&lt;h2&gt;Any secret check&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;any-secret-check&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#any-secret-check&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;If the check is secret&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;&amp;hellip;you can&amp;rsquo;t use Hero Points after the roll, because you don&amp;rsquo;t know the result.
+&lt;ul&gt;
+&lt;li&gt;but you can use it before the roll to give yourself an advantage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;hellip;and you roll it as public, I can ask you to roll again in secret (depends on severity of the check).
+&lt;ul&gt;
+&lt;li&gt;This is more of a way to stop any attempts at soft cheating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Recall Knowledge specifics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;recall-knowledge-specifics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recall-knowledge-specifics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;RAW ruling is &lt;a href=&#34;https://2e.aonprd.com/Actions.aspx?ID=2367&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Basic flow should follow the description in the link.&lt;/li&gt;
+&lt;li&gt;Below are differences and clarifications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Repeated attempts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;repeated-attempts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#repeated-attempts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;You can try to Recall more information after the first attempt
+&lt;ul&gt;
+&lt;li&gt;Unless you failed critically.&lt;/li&gt;
+&lt;li&gt;Additional attempts will be with higher DC
+&lt;ul&gt;
+&lt;li&gt;Unless you have new information. Example of this would be a monster using an ability for the first time. Recalling on this specific ability would use the base DC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Feats and abilities&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;feats-and-abilities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#feats-and-abilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For builds heavily relying on Recall Knowledge, there might be exceptions/changes to previously described rules.&lt;/p&gt;
+&lt;h4&gt;Example: Mastermind Rogue Racket&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;example-mastermind-rogue-racket&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#example-mastermind-rogue-racket&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;You can choose to do Recall Knowledge to purely serve as a way to make an enemy Off-guard. In that case, you can use the base DC even on repeated attempts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Example: Investigator Known Weakness Class Feat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;example-investigator-known-weakness-class-feat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#example-investigator-known-weakness-class-feat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;You can choose to use you free Recall Knowledge only for the bonus to attack rolls, thus using the base DC.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

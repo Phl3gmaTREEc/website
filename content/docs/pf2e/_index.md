@@ -1,8 +1,8 @@
----
-title: "Pf2e General"
-date: 2024-10-10T18:12:59+02:00
-draft: false
----
++++
+date = '2024-11-03T20:00:38+01:00'
+draft = false
+title = 'Pf2e'
++++
 
 # Intro
 
@@ -23,7 +23,7 @@ In this section we have some changes to rules/systems in game.
 
 ### Recall Knowledge and hidden checks
 
-- List is [here]({{< ref "./recall-knowledge-thoughts.md" >}}).
+- List is [here]({{< ref "./recall-knowlegde.md" >}}).
 - It's nothing complicated, just minor adjustments.
 
 ## Changes to Spells

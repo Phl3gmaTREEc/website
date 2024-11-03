@@ -1,8 +1,8 @@
----
-title: "Recall Knowledge (Secret Checks) Thoughts"
-date: 2024-03-29T14:19:30+01:00
-draft: false
----
++++
+date = '2024-11-03T19:59:40+01:00'
+draft = false
+title = 'Recall Knowlegde'
++++
 
 # Intro
 

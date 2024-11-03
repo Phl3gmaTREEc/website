@@ -1,11 +1,8 @@
----
-title: "How do I run my games?"
-date: 2023-05-14T11:05:25+02:00
-draft: false
-ShowToc: true
-tags: ["TTRPG"]
-weight: 1
----
++++
+date = '2024-11-03T20:06:09+01:00'
+draft = false
+title = 'PhlegmaTREEc as Your GM'
++++
 
 # Intro
 
@@ -46,4 +43,4 @@ weight: 1
 
 ### Pathfinder 2e
 
-- [More info here]({{< ref "./pf2e-general.md" >}})
+- [More info here]({{< ref "./pf2e/_index.md" >}})

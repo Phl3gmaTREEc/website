@@ -1,7 +1,7 @@
----
-title: "About"
-date: 2023-05-13T19:58:06+02:00
-draft: false
----
++++
+date = '2024-11-03T19:54:35+01:00'
+draft = false
+title = 'About'
++++
 
-- Hello, I'm PhlegmaTREEc (Phlegma for short), you can also call me Michael/Mike
+This page is WIP
